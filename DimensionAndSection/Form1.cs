@@ -52,6 +52,7 @@ namespace DimensionAndSection
                 //    new TSM.UI.Color(1, 0.5, 1), "Вася");
                 cs_net_lib.UI.DrawPlane(plate.GetCoordinateSystem());
             }
+            string tesGid = null;
         }
         private TransformationPlane SetPlaneAndReturnOriginal(Beam aBeam)
         {
