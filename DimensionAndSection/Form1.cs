@@ -54,6 +54,7 @@ namespace DimensionAndSection
             }
             string tesGid = null;
             string tesGid2 = "Вася";
+            string tesGid3 = "Вася";
         }
         private TransformationPlane SetPlaneAndReturnOriginal(Beam aBeam)
         {
