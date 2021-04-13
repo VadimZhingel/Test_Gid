@@ -53,6 +53,7 @@ namespace DimensionAndSection
                 cs_net_lib.UI.DrawPlane(plate.GetCoordinateSystem());
             }
             string tesGid = null;
+            string tesGid2 = "Вася";
         }
         private TransformationPlane SetPlaneAndReturnOriginal(Beam aBeam)
         {
